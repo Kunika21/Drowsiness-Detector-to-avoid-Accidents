@@ -25,7 +25,7 @@ It checks 20 consecutive frames and if the Eye Aspect ratio is lesst than 0.25, 
 
 **Relationship**
 
-<img src="https://github.com/Kunika21/Drowsiness-Detector-to-avoid-accidents/blob/master/eye2.jpg">
+<img src="https://github.com/Kunika21/Drowsiness-Detector-to-avoid-accidents/blob/master/eye2.png">
 
 **Conclusion**
 
