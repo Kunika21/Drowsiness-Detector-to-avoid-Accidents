@@ -17,7 +17,7 @@ This detector can be used to abolish Drivers from driving vehicles for a longer 
 
 Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of the eye (as if you were looking at the person), and then working clockwise around the eye:.
 
-<img src="https://github.com/Kunika21/Drowsiness-Detector-to-avoid-accidents/eye1.jpg">
+<img src="https://github.com/Kunika21/Drowsiness-Detector-to-avoid-accidents/blob/master/eye1.jpg">
 
 **Condition**
 
@@ -25,9 +25,9 @@ It checks 20 consecutive frames and if the Eye Aspect ratio is lesst than 0.25, 
 
 **Relationship**
 
-<img src="https://github.com/Kunika21/Drowsiness-Detector-to-avoid-accidents/eye2.png">
+<img src="https://github.com/Kunika21/Drowsiness-Detector-to-avoid-accidents/blob/master/eye2.jpg">
 
 **Conclusion**
 
-<img src="https://github.com/Kunika21/Drowsiness-Detector-to-avoid-accidents/eye3.jpg">
+<img src="https://github.com/Kunika21/Drowsiness-Detector-to-avoid-accidents/blob/master/eye3.jpg">
 
